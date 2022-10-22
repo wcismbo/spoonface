@@ -1,5 +1,5 @@
 body {
-    font-family: 'Jua' sans-serif;
+  font-family: 'Jua', sans-serif;
     background-color: #ffffff;
     box-sizing: border-box;
     color: #35465d;
@@ -188,10 +188,6 @@ body {
     text-decoration: underline;
   }
 
-  .website-icon {
-    width: 30px;
-    height: 27.262px;
-  }
 
 
   .upload{
